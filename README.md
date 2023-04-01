@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning and practicing **ReactJS**
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/shubham-gulik/](https://www.linkedin.com/in/shubham-gulik/)
+- 👨‍💻 All of my projects are available at [https://github.com/Shubhamgulik?tab=repositories](https://github.com/Shubhamgulik?tab=repositories)
 
 - 📝 I regularly write articles on [https://shubhamgulik.hashnode.dev/](https://shubhamgulik.hashnode.dev/)
 
