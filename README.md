@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **shubhamgulik80@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1IKkm3FJ77_ED5B7cflAz_1iGMTMVOlBd/view?usp=share_link](https://drive.google.com/file/d/1IKkm3FJ77_ED5B7cflAz_1iGMTMVOlBd/view?usp=share_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1IKkm3FJ77_ED5B7cflAz_1iGMTMVOlBd/view?usp=share_link](https://drive.google.com/file/d/1IKkm3FJ77_ED5B7cflAz_1iGMTMVlBd/view?usp=share_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
