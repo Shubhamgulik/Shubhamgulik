@@ -9,13 +9,13 @@
 
 - 🔭 I’m currently working on [different projects of Frontend Development](https://github.com/Shubhamgulik?tab=repositories)
 
-- 🌱 I’m currently learning and practicing **ReactJS**
+- 🌱 I’m currently Working as **Full Stack Developer**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Shubhamgulik?tab=repositories](https://github.com/Shubhamgulik?tab=repositories)
 
 - 📝 I regularly write articles on [https://shubhamgulik.hashnode.dev/](https://shubhamgulik.hashnode.dev/)
 
-- 💬 Ask me about **Javascript, ReactJS**
+- 💬 Ask me about **Javascript, React, Node, Express, React, Typescript**
 
 - 📫 How to reach me **shubhamgulik80@gmail.com**
 
